@@ -1,0 +1,220 @@
+{
+  "maxCalidad": 100,
+  "minCalidad": 87,
+  "maxPrecio": 999,
+  "minPrecio": 14,
+  "minAnio": 2005,
+  "maxAnio": 2015,
+  "vinos": [
+    {
+      "nombre": "Leoville Barton",
+      "calidad": 100,
+      "anio": 2010,
+      "tinto": true,
+      "precio": 169
+    },
+    {
+      "nombre": "Lafite Rothschild",
+      "calidad": 100,
+      "anio": 2010,
+      "tinto": true,
+      "precio": 999
+    },
+    {
+      "nombre": "Pontet Canet",
+      "calidad": 100,
+      "anio": 2010,
+      "tinto": true,
+      "precio": 269
+    },
+    {
+      "nombre": "Mouton Rothschild",
+      "calidad": 99,
+      "anio": 2005,
+      "tinto": true,
+      "precio": 699
+    },
+    {
+      "nombre": "Cheval Blanc",
+      "calidad": 97,
+      "anio": 2014,
+      "tinto": false,
+      "precio": 499
+    },
+    {
+      "nombre": "Cos D'Estournel",
+      "calidad": 97,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 129
+    },
+    {
+      "nombre": "Haut Brion",
+      "calidad": 96,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 349
+    },
+    {
+      "nombre": "Ducru Beaucaillou",
+      "calidad": 95,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 129
+    },
+    {
+      "nombre": "Gloria",
+      "calidad": 94,
+      "anio": 2011,
+      "tinto": true,
+      "precio": 39
+    },
+    {
+      "nombre": "Pichon Lalande",
+      "calidad": 94,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 114
+    },
+    {
+      "nombre": "Smith Haut Lafitte Rouge",
+      "calidad": 94,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 74
+    },
+    {
+      "nombre": "Larrivet Haut Brion",
+      "calidad": 93,
+      "anio": 2009,
+      "tinto": true,
+      "precio": 44
+    },
+    {
+      "nombre": "Les Hauts DeLarrivet",
+      "calidad": 93,
+      "anio": 2013,
+      "tinto": false,
+      "precio": 29
+    },
+    {
+      "nombre": "Croix de Beaucaillou",
+      "calidad": 93,
+      "anio": 2012,
+      "tinto": true,
+      "precio": 49
+    },
+    {
+      "nombre": "Grand Puy Lacoste",
+      "calidad": 93,
+      "anio": 2012,
+      "tinto": true,
+      "precio": 55
+    },
+    {
+      "nombre": "de Camarsac Bordeaux",
+      "calidad": 92,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 14
+    },
+    {
+      "nombre": "Capbern",
+      "calidad": 92,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 24
+    },
+    {
+      "nombre": "Fombrauge",
+      "calidad": 92,
+      "anio": 2010,
+      "tinto": true,
+      "precio": 34
+    },
+    {
+      "nombre": "Barde Haut",
+      "calidad": 92,
+      "anio": 2012,
+      "tinto": true,
+      "precio": 34
+    },
+    {
+      "nombre": "Feret Lambert Bordeaux",
+      "calidad": 91,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 19
+    },
+    {
+      "nombre": "Dalem",
+      "calidad": 91,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 24
+    },
+    {
+      "nombre": "Haut Bergey",
+      "calidad": 91,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 29
+    },
+    {
+      "nombre": "Cote Montpezat Castillon",
+      "calidad": 90,
+      "anio": 2010,
+      "tinto": true,
+      "precio": 26
+    },
+    {
+      "nombre": "De La Huste",
+      "calidad": 90,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 19
+    },
+    {
+      "nombre": "du Retout",
+      "calidad": 90,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 24
+    },
+    {
+      "nombre": "Larrivet Haut Brion",
+      "calidad": 90,
+      "anio": 2014,
+      "tinto": true,
+      "precio": 39
+    },
+    {
+      "nombre": "Cote Montpezat",
+      "calidad": 90,
+      "anio": 2015,
+      "tinto": false,
+      "precio": 19
+    },
+    {
+      "nombre": "Joanin Becot Castillion",
+      "calidad": 90,
+      "anio": 2012,
+      "tinto": false,
+      "precio": 29
+    },
+    {
+      "nombre": "Pierre de Montignac",
+      "calidad": 88,
+      "anio": 2012,
+      "tinto": true,
+      "precio": 19
+    },
+    {
+      "nombre": "La Papeterie St Emilion",
+      "calidad": 87,
+      "anio": 2012,
+      "tinto": true,
+      "precio": 19
+    }
+  ]
+}
